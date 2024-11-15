@@ -25,3 +25,6 @@ local_settings.py  # if you have this file for local configurations
 migrations/
 
 run
+
+
+cert*
